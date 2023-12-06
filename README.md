@@ -1,2 +1,3 @@
 # sketches
-![watering](https://github.com/EdMasterNava/sketches/assets/7928689/fc7b5806-f5b1-44b8-b739-7986a87199eb)
+
+![watering_sketch](https://github.com/EdMasterNava/sketches/assets/7928689/ef071249-a1a7-4592-ad2f-4248e36025f5)
